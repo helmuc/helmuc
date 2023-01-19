@@ -22,5 +22,3 @@ src="https://img.shields.io/twitter/follow/helmutsmeskonis?logo=twitter&style=fo
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### $Maria Coin Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/hostmaria/mariacoin)
